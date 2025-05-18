@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I ❤ Tahu Gimbal
+## I ❤ Tahu Gimbal
 
 <!--
 **ilovetahugimbal/ilovetahugimbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
